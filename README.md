@@ -1,6 +1,6 @@
-# PancakeSwap NFT Marketplace API
+# GolFinance NFT Marketplace API
 
-Serverless API implementation for PancakeSwap NFT Marketplace
+Serverless API implementation for GolFinance NFT Marketplace
 
 # Dependencies
 
